@@ -1,6 +1,7 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+#Insert your api key below
+# client = OpenAI(api_key='')
 import nltk
 from nltk.chat.util import Chat, reflections
 from datetime import datetime, date
